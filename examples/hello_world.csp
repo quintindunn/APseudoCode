@@ -1,0 +1,6 @@
+PROCEDURE hello(name)
+{
+    DISPLAY("Hello, " + name + ".")
+}
+
+hello("world")
